@@ -1,4 +1,4 @@
-Projeto de Visualização de Dados: Violência contra as Mulheres
+Projeto de Visualização de Dados: Violência de gênero
 Este repositório contém um projeto de visualização de dados que eu desenvolvi, focado na análise de um conjunto de dados relacionados à violência de gênero. Utilizei as bibliotecas Pandas, Plotly, Dash e Estudo Chart para explorar e apresentar os insights obtidos.
 
 Conteúdo
